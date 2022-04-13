@@ -1,0 +1,24 @@
+{
+  "name": "dududu-cli",
+  "version": "1.0.3",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "cc": "./bin/cli.js"
+  },
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "commander": "^8.3.0",
+    "download-git-repo": "^3.0.2",
+    "fs-extra": "^10.0.0",
+    "inquirer": "^8.2.0",
+    "ora": "^5.4.0"
+  },
+  "devDependencies": {
+    "fs-extra": "^10.0.0"
+  }
+}
